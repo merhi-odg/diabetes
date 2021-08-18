@@ -93,7 +93,7 @@
          "protectedClass": false,
          "driftCandidate": true,
          "specialValues": [],
-         "scoringOptional": false
+         "scoringOptional": true
       },
       {
          "name": "score",
